@@ -1,2 +1,6 @@
-# hello_world
-starting step
+#include<stdio.h>
+int main()
+{
+  printf("Hello GitHub");
+  return (0);
+}
